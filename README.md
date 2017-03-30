@@ -13,6 +13,7 @@
 
 1. [UISearchController 的“Attempting to load ... undefined behavior”警告解决办法](https://github.com/FundiJet/Note/blob/master/iOS/UISearchController%20%E7%9A%84%E2%80%9CAttempting%20to%20load%20...%20undefined%20behavior%E2%80%9D%E8%AD%A6%E5%91%8A%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
 2. [禁用 Core Animation 隐式动画](https://github.com/FundiJet/Note/blob/master/iOS/%E7%A6%81%E7%94%A8%20Core%20Animation%20%E9%9A%90%E5%BC%8F%E5%8A%A8%E7%94%BB.md)
+3. [去除花生地铁多余的 URLSchemes 并重签名安装到手机](https://github.com/FundiJet/Note/blob/master/iOS/%e5%8e%bb%e9%99%a4%e8%8a%b1%e7%94%9f%e5%9c%b0%e9%93%81%e5%a4%9a%e4%bd%99%e7%9a%84+URLSchemes+%e5%b9%b6%e9%87%8d%e7%ad%be%e5%90%8d%e5%ae%89%e8%a3%85%e5%88%b0%e6%89%8b%e6%9c%ba.md)
 
 -----
 

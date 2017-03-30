@@ -24,7 +24,7 @@
 
 之后是对应用重签名，这里我使用的是 [AppResign](https://github.com/Urinx/iOSAppHook)，比较简单。
 
-![](http://ocpmjsr1z.bkt.clouddn.com/%F0%9F%92%8A.png)
+![](http://ocpmjsr1z.bkt.clouddn.com/group%F0%9F%92%8A.png)
 
 最后通过 `ideviceinstaller` 安装到手机上，成功运行不闪退。
 

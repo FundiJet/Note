@@ -144,22 +144,27 @@ Son construction
 - Pen construction, Son's static pen
 - Son's static code block1
 - Son's static code block2
+
 #### 2. 父类的构造代码块和成员变量
 在静态代码块和静态变量执行完毕后，开始进行构造代码块的执行以及成员变量的初始化。根据输出结果，我们可以看出，构造代码块的执行以及成员变量的初始化，代码运行顺序与其书写位置的前后顺序相同。
 - Father's construction code block1
 - Apple construction, Father's apple
 - Father's construction code block2
+
 #### 3. 父类的构造方法
 - Father construction
+
 #### 4. 子类的构造代码块和成员变量
 - Son's construction code block1
 - Apple construction, Son's apple
 - Son's construction code block2
 - Pen construction, Son's pen2
 - Son's construction code block3
+
 #### 5. 子类的构造方法
 最后才是子类的构造方法执行。
 - Son construction
+
 ### 四. 总结
 1. 静态代码块和静态变量最先执行，对于有继承关系的类来说，父类的执行完毕后再执行子类的。（例子中用到了 Apple 类，所以夹杂了 Apple 类的静态代码块）
 2. 同一个类中，构造代码块和成员变量初始化的执行优先于构造方法，并根据位置的前后依次执行。

@@ -2,6 +2,11 @@
 
 ## 目录
 
+### Golang
+
+1. [Golang 两种线程同步的示例（goroutine / mutex）]
+2. [Golang 实现 bit array]
+
 ### Java
 
 1. [Install Maven In Mac OS](https://github.com/FundiJet/Note/blob/master/Java/Install%20Maven%20In%20Mac%20OS.md)

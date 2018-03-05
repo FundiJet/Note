@@ -19,8 +19,10 @@
 
 1. [UISearchController 的“Attempting to load ... undefined behavior”警告解决办法](https://github.com/FundiJet/Note/blob/master/iOS/UISearchController%20%E7%9A%84%E2%80%9CAttempting%20to%20load%20...%20undefined%20behavior%E2%80%9D%E8%AD%A6%E5%91%8A%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
 2. [禁用 Core Animation 隐式动画](https://github.com/FundiJet/Note/blob/master/iOS/%E7%A6%81%E7%94%A8%20Core%20Animation%20%E9%9A%90%E5%BC%8F%E5%8A%A8%E7%94%BB.md)
-3. [从NSMutableArray中删除元素的四种方法的速度对比](https://github.com/FundiJet/Note/blob/master/iOS/%E4%BB%8ENSMutableArray%E4%B8%AD%E5%88%A0%E9%99%A4%E5%85%83%E7%B4%A0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E6%B3%95%E7%9A%84%E9%80%9F%E5%BA%A6%E5%AF%B9%E6%AF%94.md)
+3. [去除花生地铁多余的 URLSchemes 并重签名安装到手机](https://github.com/FundiJet/Note/blob/master/iOS/%E5%8E%BB%E9%99%A4%E8%8A%B1%E7%94%9F%E5%9C%B0%E9%93%81%E5%A4%9A%E4%BD%99%E7%9A%84%20URLSchemes%20%E5%B9%B6%E9%87%8D%E7%AD%BE%E5%90%8D%E5%AE%89%E8%A3%85%E5%88%B0%E6%89%8B%E6%9C%BA.md)
 
+
+4. [从NSMutableArray中删除元素的四种方法的速度对比](https://github.com/FundiJet/Note/blob/master/iOS/%E4%BB%8ENSMutableArray%E4%B8%AD%E5%88%A0%E9%99%A4%E5%85%83%E7%B4%A0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E6%B3%95%E7%9A%84%E9%80%9F%E5%BA%A6%E5%AF%B9%E6%AF%94.md)
 -----
 
 ### Swift

@@ -4,8 +4,8 @@
 
 ### Golang
 
-1. [Golang 两种线程同步的示例（goroutine / mutex）]
-2. [Golang 实现 bit array]
+1. [Golang 两种线程同步的示例（goroutine / mutex）](https://github.com/FundiJet/Note/blob/master/Golang/Golang%20%E4%B8%A4%E7%A7%8D%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%AD%A5%E7%9A%84%E7%A4%BA%E4%BE%8B%EF%BC%88goroutine%20:%20mutex%EF%BC%89.md)
+2. [Golang 实现 bit array](https://github.com/FundiJet/Note/blob/master/Golang/Golang%20%E5%AE%9E%E7%8E%B0%20bit%20array.md)
 
 ### Java
 
